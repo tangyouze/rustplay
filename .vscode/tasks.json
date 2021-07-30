@@ -7,9 +7,6 @@
 			"problemMatcher": [
 				"$rustc"
 			],
-			"options": {
-				"cwd": "${workspaceFolder}/hello"
-			},
 			"label": "Rust: cargo run - rustplay"
 		}
 	]
