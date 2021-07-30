@@ -3,4 +3,4 @@
 
 *.ext
 
-./target
+target/
