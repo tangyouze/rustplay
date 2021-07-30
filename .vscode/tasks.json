@@ -7,6 +7,9 @@
 			"problemMatcher": [
 				"$rustc"
 			],
+			"options": {
+				"cwd": "${workspaceFolder}/trafficlight"
+			},
 			"label": "Rust: cargo run - rustplay"
 		}
 	]
